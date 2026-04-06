@@ -27,6 +27,11 @@ main {
   padding: 2rem;
 }
 
+.bird-logo {
+  width: clamp(80px, 12vw, 140px);
+  height: auto;
+}
+
 .band-name {
   font-size: clamp(2.4rem, 7vw, 5rem);
   font-weight: 400;
