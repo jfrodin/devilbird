@@ -9,8 +9,8 @@ html, body {
 }
 
 body {
-  background: #f7f5f0;
-  color: #111;
+  background: #edeef1;
+  color: #16161a;
   font-family: 'Cormorant Garamond', serif;
   display: flex;
   flex-direction: column;
@@ -37,7 +37,7 @@ main {
 
 .status {
   font-size: 0.85rem;
-  color: #888;
+  color: #8a94a6;
   letter-spacing: 0.04em;
 }
 
@@ -52,10 +52,10 @@ main {
 .signup input[type="email"] {
   background: transparent;
   border: none;
-  border-bottom: 1px solid #bbb;
+  border-bottom: 1px solid #c0c4cc;
   font-family: 'Cormorant Garamond', serif;
   font-size: 0.8rem;
-  color: #111;
+  color: #16161a;
   padding: 0.3rem 0;
   width: 220px;
   outline: none;
@@ -63,7 +63,7 @@ main {
 }
 
 .signup input[type="email"]::placeholder {
-  color: #ccc;
+  color: #b0b6c2;
 }
 
 .signup button {
@@ -71,7 +71,7 @@ main {
   border: none;
   font-family: 'Cormorant Garamond', serif;
   font-size: 0.75rem;
-  color: #aaa;
+  color: #8a94a6;
   cursor: pointer;
   padding: 0;
   letter-spacing: 0.06em;
@@ -79,12 +79,12 @@ main {
 }
 
 .signup button:hover {
-  color: #111;
+  color: #16161a;
 }
 
 .confirm {
   font-size: 0.75rem;
-  color: #aaa;
+  color: #8a94a6;
   letter-spacing: 0.04em;
   opacity: 0;
   transition: opacity 0.4s;
