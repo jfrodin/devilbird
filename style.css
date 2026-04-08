@@ -28,19 +28,6 @@ main {
   text-align: center;
 }
 
-.bird-logo {
-  width: clamp(80px, 12vw, 140px);
-  height: auto;
-}
-
-.band-name {
-  font-size: clamp(2.4rem, 7vw, 5rem);
-  font-weight: 400;
-  letter-spacing: 0.2em;
-  line-height: 1;
-  text-transform: uppercase;
-}
-
 .release {
   display: flex;
   flex-direction: column;
