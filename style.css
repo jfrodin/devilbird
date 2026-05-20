@@ -59,6 +59,11 @@ main {
   margin-top: 0.4rem;
 }
 
+.links.social {
+  margin-top: 0;
+  opacity: 0.6;
+}
+
 .links a {
   font-size: 0.75rem;
   color: #8a94a6;
